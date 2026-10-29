@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1726,100:8b5cf6&height=180&section=header&text=Rabi%20Rajnish&fontSize=48&fontColor=ece9f5&animation=fadeIn&fontAlignY=38" alt="banner" />
+  <img src="assets/banner.png" width="100%" alt="banner" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Rabi</h2>
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Rabi-Rajnish/Rabi-Rajnish/main/assets/about.gif" alt="" />
+<img align="right" width="230" src="assets/tech.png" alt="tech icons" />
 
 - 🎓 Studying **BSc Computing Science** at **Coventry University London**
 - 📍 Based in **London, UK**
@@ -76,6 +76,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1a1726&height=100&section=footer" alt="footer" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1a1726&height=100&section=footer" alt="footer" />
